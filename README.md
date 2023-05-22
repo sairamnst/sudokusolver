@@ -1,1 +1,1 @@
-# sudokusolver.github.io
+# sudokusolver
